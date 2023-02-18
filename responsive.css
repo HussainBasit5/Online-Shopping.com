@@ -1,0 +1,25 @@
+@media screen and (max-width:1000px){
+    
+    header{
+        flex-direction: column;
+        height: 120px;
+    }
+    nav{
+        flex-direction: column;
+    }
+    nav ul li{
+        padding: 12px;
+    }
+    .card-items img{
+        width: 137px;
+    }
+    .slider{
+        height: 20vh;
+    }
+    .search input{
+        margin: 1px 12px 0px 6px;
+    }
+    .log{
+        padding: 6px;
+    }
+}
